@@ -38,7 +38,7 @@ public class Solution {
         First Element: 1
         Last Element: 3
          */
-        System.out.println("Array is sorted in " + numberOfSwaps + " swaps");
+        System.out.println("Array is sorted in " + numberOfSwaps + " swaps.");
         System.out.println("First Element: " + a[0]);
         System.out.println("Last Element: " + a[n - 1]);
 
